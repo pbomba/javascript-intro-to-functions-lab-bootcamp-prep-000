@@ -15,4 +15,3 @@ function logWhisper (String) {
   console.log(String.toUpperCase ());
 }
 
-logShout('hi');
