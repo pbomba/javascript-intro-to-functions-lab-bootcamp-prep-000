@@ -15,3 +15,6 @@ function logWhisper (String) {
   console.log(String.toUpperCase ());
 }
 
+function sayHiToGrandma(String){
+  String
+}
