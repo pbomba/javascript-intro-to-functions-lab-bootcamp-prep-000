@@ -1,1 +1,3 @@
-function shout ()
+function shout (String) {
+  
+}
