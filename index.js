@@ -12,4 +12,4 @@ function logShout (String) {
 }
 
 
-LogShout('hi');
+logShout('hi');
