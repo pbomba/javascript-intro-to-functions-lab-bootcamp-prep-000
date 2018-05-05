@@ -1,3 +1,6 @@
+let upperCase
+let lowerCase
+
 function shout (String) {
   return String.toUpperCase ();
 }
@@ -16,12 +19,14 @@ function logWhisper (String) {
 }
 
 function sayHiToGrandma(String){
+  upperCase = String;
+  lowerCase = String;
   if (String == "I love you, Grandma."){
     return "I love you, too.";
   }
-  else if (String.isLowerCase){
+  else if (String ===){
     return "I can't hear you";
-  } else {
+  } else if (String === ){
     return "YES INDEED!"
   }
 }
