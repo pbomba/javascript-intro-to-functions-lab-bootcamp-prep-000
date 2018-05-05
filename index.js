@@ -24,9 +24,9 @@ function sayHiToGrandma(String){
   if (String == "I love you, Grandma."){
     return "I love you, too.";
   }
-  else if (String ===){
+  else if (upperCase === upperCase.toUpperCase()){
     return "I can't hear you";
-  } else if (String === ){
+  } else if (lowerCase === lowerCase.toLowerCase()){
     return "YES INDEED!"
   }
 }
