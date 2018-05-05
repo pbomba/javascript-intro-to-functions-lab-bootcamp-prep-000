@@ -11,3 +11,6 @@ function logShout (String) {
   String.toUpperCase ();
   console.log(LogShout(String))
 }
+
+
+LogShout('hi');
